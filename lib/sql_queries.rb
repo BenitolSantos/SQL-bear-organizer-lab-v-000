@@ -41,5 +41,5 @@ end
 
 def selects_bear_that_killed_Tim
   "SELECT * FROM bears WHERE name IS NULL"
-  #this is how to pick a null object
+  #this is how to pick a null
 end
